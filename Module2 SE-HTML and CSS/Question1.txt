@@ -1,0 +1,15 @@
+1. Website - Website is a Place that Connected to a Internet.
+Where all Company's, organizations create your website and put information on that website that can shown on World Wide Web (www). For example - www.google.com, www.microsoft.com, www.netflix.com, etc.
+
+2. Webpage - Webpages contain some information, images, texts, numbers, etc. All collection of webpages create a one website. For Example - All pages create a one books, Similarly all webpages create a one website.
+Websites contains many web pages and link together under domain name.
+
+3. Web browser - Web browser is browser that shows, find, navigate to websites and webpages when the Internet is there.
+For Example - Google Chrome is a Web browser, Microsoft Explorer, Opera, Safari, Firefox, etc.
+
+4. Web server - Web server is a server that stores all webpages and websites. All Web browsers request to a Web server to open a Website or Webpages. All books are store in library that similarly all websites or webpages store in web server
+For Example - You want to open Netflix Website on your laptop and enter the domain name of Netflix in google search bar. Now, the Web browser Google Chrome send a request to a Web server to view Netflix website, When Web server is allow to view Netflix website then you will see Netflix website.
+
+5. HTML - HTML means Hyper Text Markup Language. All webpages contain HTML code and all webpage file is HTML file. HTML Code tell the browser how to display content.
+
+6. CSS - CSS means Cascading Style Sheets. CSS Code for Design and structure the website in html file.
