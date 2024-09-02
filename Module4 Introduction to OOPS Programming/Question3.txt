@@ -1,0 +1,2 @@
+OOP (Object-Oriented Programming) - Uses objects and classes to bundle data and functions together, making it easier to manage complex code and reuse components.
+POP (Procedural-Oriented Programming) - Uses functions and a sequence of operations, often with data kept separate, which is simpler but can be less flexible for larger applications.
